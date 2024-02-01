@@ -7,8 +7,5 @@ public class Main {
      System.out.printf("Hello, %s", "World!");
      System.out.printf("Hello, %s\n", "World!");
      System.out.printf("Hello, World: %.5f", 67800.056742);
-
-
-
- }
+    }
 }
