@@ -1,0 +1,9 @@
+Java basics
+a. Java syntax (“Hello, World!” in Java)
+b. Application lifecycle: writing, compiling (to bytecode), running
+c. Application entry point:
+public static void main (String[] args){}
+d. Print to console
+● System.out.println(“Hello, World”);
+● System.out.print(“Hello, World”);
+● System.out.printf(“Hello, %s”, “World”);
