@@ -1,8 +1,6 @@
 package lesson2;
-
-import java.util.Scanner;
-
-public class numberSumApp {
+ import java.util.Scanner;
+  public class numberSumApp {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
