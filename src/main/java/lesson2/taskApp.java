@@ -1,7 +1,5 @@
 package lesson2;
-
 import java.util.Scanner;
-
 public class taskApp {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
