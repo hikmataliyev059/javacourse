@@ -1,0 +1,16 @@
+Control Flow
+a. Input from keyboard/console - Scanner class
+● Difference between next() & nextLine()
+b. Conditional statements
+● if
+● if - else
+● if - else if - else
+● switch - case
+c. Loops
+● for
+● while
+● do-while
+● enhanced for loop - ‘foreach’ (after arrays)
+d. Break/continue statements
+e. Nested conditions and loops
+f. Practice (Problem Solving)
